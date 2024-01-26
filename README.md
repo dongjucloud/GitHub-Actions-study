@@ -9,7 +9,7 @@
 <br/>
 
 # 클라우드타입 웨비나 #01 <br/> GitHub Actions를 활용한 CI/CD 파이프라인 구축하기 <!-- omit in toc -->
-
+# git clone 해옴 
 ## 목차 <!-- omit in toc -->
 - [🛠️ 준비사항](#️-준비사항)
 - [⚙️ GitHub Actions Workflows](#️-github-actions-workflows)
